@@ -1,14 +1,3 @@
-/*
-*
-*	Nitzan Miranda - 316591759
-*
-*	Ori Bachar - 208254516
-*
-*	ניצן מרנדה - 316591759
-*
-*	אורי בכר - 208254516
-*
-*/
 
 #include <unistd.h>
 #include <stdio.h>
